@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/degree/DegreeDistribution.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/Booking.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/BookingSystemController.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/EnsuiteRoom.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/Hotel.java">
+<error line="41" column="13" severity="error" message="Conditional logic can be removed." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+<error line="46" column="13" severity="error" message="Conditional logic can be removed." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+<error line="51" column="13" severity="error" message="Conditional logic can be removed." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/PenthouseRoom.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/Room.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/hotel/StandardRoom.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/staff/Lecturer.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/staff/StaffMember.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/unsw/piazza/PermissionDeniedException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/unsw/piazza/PiazzaForum.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/unsw/piazza/Post.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/unsw/piazza/Thread.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab02/src/main/java/unsw/piazza/User.java">
+</file>
+</checkstyle>

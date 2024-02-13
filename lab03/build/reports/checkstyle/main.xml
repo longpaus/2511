@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/ArchaicFileSystem.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/DeviceType.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/FileWriteOptions.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/Inode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/Metadata.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWFileAlreadyExistsException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWFileNotFoundException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWNoSuchFileException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/ArchaicFileSystem.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/DeviceType.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/FileWriteOptions.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/Inode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/Metadata.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWFileAlreadyExistsException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWFileNotFoundException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab03/src/main/java/unsw/archaic_fs/exceptions/UNSWNoSuchFileException.java">
+</file>
+</checkstyle>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/AndNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/BooleanEvaluator.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/BooleanNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/FalseNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/NodeFactory.java">
+<error line="60" severity="error" message="Line is longer than 120 characters (found 158)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/NotNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/OrNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/TrueNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/ButtonListener.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/Document.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/DocumentListener.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/EditorApplication.java">
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="error" message="Unused import - javax.swing.JButton." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="error" message="Unused import - javax.swing.JMenu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="error" message="Unused import - javax.swing.JMenuItem." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="41" column="9" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/EditorFactory.java">
+<error line="18" column="8" severity="error" message="Unused import - javax.swing.JMenu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="error" message="Unused import - javax.swing.JMenuItem." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/HTMLEditorFactory.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/HtmlMenuBar.java">
+<error line="4" column="8" severity="error" message="Unused import - java.awt.event.WindowAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - javax.swing.JDesktopPane." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="error" message="Unused import - javax.swing.JFrame." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="error" message="Unused import - javax.swing.JToolBar." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/MenuBar.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextDocument.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextEditorFactory.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextEditorMenuBar.java">
+<error line="4" column="8" severity="error" message="Unused import - java.awt.event.WindowAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - javax.swing.JDesktopPane." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="error" message="Unused import - javax.swing.JFrame." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="error" message="Unused import - javax.swing.JToolBar." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="error" message="Unused import - javax.swing.JButton." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextFileFilter.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/WindowCloser.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/random/Game.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/AndNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/BooleanEvaluator.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/BooleanNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/FalseNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/NodeFactory.java">
+<error line="60" severity="error" message="Line is longer than 120 characters (found 158)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/NotNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/OrNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/bool/TrueNode.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/ButtonListener.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/Document.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/DocumentListener.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/EditorApplication.java">
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="error" message="Unused import - javax.swing.JButton." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="error" message="Unused import - javax.swing.JMenu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="error" message="Unused import - javax.swing.JMenuItem." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="41" column="9" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/EditorFactory.java">
+<error line="18" column="8" severity="error" message="Unused import - javax.swing.JMenu." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="error" message="Unused import - javax.swing.JMenuItem." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/HTMLEditorFactory.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/HtmlMenuBar.java">
+<error line="4" column="8" severity="error" message="Unused import - java.awt.event.WindowAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - javax.swing.JDesktopPane." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="error" message="Unused import - javax.swing.JFrame." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="error" message="Unused import - javax.swing.JToolBar." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/MenuBar.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextDocument.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextEditorFactory.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextEditorMenuBar.java">
+<error line="4" column="8" severity="error" message="Unused import - java.awt.event.WindowAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - javax.swing.JDesktopPane." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="error" message="Unused import - javax.swing.JFrame." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="error" message="Unused import - javax.swing.JToolBar." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="error" message="Unused import - java.awt.Dimension." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - java.awt.Toolkit." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="error" message="Unused import - javax.swing.ImageIcon." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="error" message="Unused import - javax.swing.JButton." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="error" message="Unused import - javax.swing.JTextField." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/TextFileFilter.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/fileeditor/WindowCloser.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab07/src/main/java/random/Game.java">
+</file>
+</checkstyle>

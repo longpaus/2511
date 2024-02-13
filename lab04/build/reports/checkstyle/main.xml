@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/banking/BankAccount.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/banking/LoggedBankAccount.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/rational/FunFractions.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/rational/Rational.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Course.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/CourseOffering.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Enrolment.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Grade.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Student.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/exceptions/InvalidEnrolmentException.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/banking/BankAccount.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/banking/LoggedBankAccount.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/rational/FunFractions.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/rational/Rational.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Course.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/CourseOffering.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Enrolment.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Grade.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/Student.java">
+</file>
+<file name="/Users/long/Documents/unswComp/comp2511/lab04/src/main/java/unsw/enrolment/exceptions/InvalidEnrolmentException.java">
+</file>
+</checkstyle>
